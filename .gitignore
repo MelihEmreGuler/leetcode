@@ -25,6 +25,7 @@ replay_pid*
 
 # jetbrains
 .idea/
+out/
 
 # macos
 .DS_Store
